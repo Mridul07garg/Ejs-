@@ -1,0 +1,11 @@
+It's project which just count number of letters in given name or text and return it
+
+
+To run code:
+  Download the them in one folder
+  Initialize npm using command (" npm init -y")
+  Install all the dependencies (" npm i")
+
+Move to any browser and search ("http://localhost:3000/")
+
+Your site is up
